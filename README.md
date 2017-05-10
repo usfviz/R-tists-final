@@ -32,23 +32,28 @@ The final version goes further from the treemap to produce a dropdown menu depen
 
 ### Tab 1:
 
-#### 1. Starts wih the chloropleth colored by Mortality Rates:
+#### 1. Starts with the chloropleth colored by Mortality Rates:
+
 
 <img src="https://github.com/usfviz/R-tists-final/blob/master/Final%20Images/1.png" alt="alt text" width="550" height="300"> 
 
 #### 2. Moves on to the indicators related to the state clicked on:
 
+
 <img src="https://github.com/usfviz/R-tists-final/blob/master/Final%20Images/2.png" alt="alt text" width="700" height="300">
 
 #### 3. The topic selected then yields a treemap of indicators for the state in question:
+
 
 <img src="https://github.com/usfviz/R-tists-final/blob/master/Final%20Images/3.png" alt="alt text" width="600" height="300">
 
 #### 4. The indicator from the treemap yields a dropdown menu which has options for stratification:
 
+
 <img src="https://github.com/usfviz/R-tists-final/blob/master/Final%20Images/4.png" alt="alt text" width="800" height="300">
 
 #### 5. Based on the selected stratification, a donut chart showing the breakup is created:
+
 
 <img src="https://github.com/usfviz/R-tists-final/blob/master/Final%20Images/5.png" alt="alt text" width="600" height="300">
 
