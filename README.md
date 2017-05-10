@@ -50,7 +50,7 @@ The final version goes further from the treemap to produce a dropdown menu depen
 #### 4. The indicator from the treemap yields a dropdown menu which has options for stratification:
 
 
-<img src="https://github.com/usfviz/R-tists-final/blob/master/Final%20Images/4.png" alt="alt text" width="800" height="300">
+<img src="https://github.com/usfviz/R-tists-final/blob/master/Final%20Images/4.png" alt="alt text" width="900" height="300">
 
 #### 5. Based on the selected stratification, a donut chart showing the breakup is created:
 
